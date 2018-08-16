@@ -1,0 +1,16 @@
+{
+  "menus": [
+    {
+      "title": "首页",
+      "url": "/"
+    },
+    {
+      "title": "课程",
+      "url": "/courses"
+    },
+    {
+      "title": "联系",
+      "url": "/contact"
+    }
+  ]
+}

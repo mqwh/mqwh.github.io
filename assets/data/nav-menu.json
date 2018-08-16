@@ -1,0 +1,86 @@
+{
+  "menus": [
+    {
+      "title": "首页",
+      "url": "/"
+    },
+    {
+      "title": "课程",
+      "url": "/courses",
+      "children": [
+        {
+          "title": "闪耀特训",
+          "url": "/courses/ushine",
+          "children": [
+            { "title": "儿童情商", "url": "/courses/qingshang" },
+            { "title": "注意力课程", "url": "/courses/zhuyili" },
+            { "title": "感觉统合", "url": "/courses/gantong" },
+            { "title": "思维阅读", "url": "/courses/siweiyuedu" }
+          ]
+        },
+        {
+          "title": "文化教育",
+          "url": "/courses/wenhua",
+          "children": [
+            { "title": "英语", "url": "/courses/english" },
+            { "title": "书法", "url": "/courses/shufa" }
+          ]
+        },
+        {
+          "title": "艺术 / 体育",
+          "url": "/courses/arts",
+          "children": [
+            { "title": "创意美术", "url": "/courses/meishu" },
+            { "title": "室内高尔夫", "url": "/courses/golf" },
+            { "title": "吉他", "url": "/courses/guitar" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "资讯",
+      "url": "/news",
+      "children": [
+        {
+          "title": "最新动态",
+          "url": "/courses/news",
+          "children": [
+            { "title": "创意美术暑假营开班啦", "url": "/news/1" },
+            { "title": "注意力课程", "url": "/courses/zhuyili" },
+            { "title": "感觉统合", "url": "/courses/gantong" },
+            { "title": "思维阅读", "url": "/courses/siweiyuedu" }
+          ]
+        },
+        {
+          "title": "户外活动",
+          "url": "/courses/wenhua",
+          "children": [
+            { "title": "英语", "url": "/courses/english" },
+            { "title": "书法", "url": "/courses/shufa" }
+          ]
+        },
+        {
+          "title": "优惠信息",
+          "url": "/courses/arts",
+          "children": [
+            { "title": "创意美术", "url": "/courses/meishu" },
+            { "title": "室内高尔夫", "url": "/courses/golf" },
+            { "title": "吉他", "url": "/courses/guitar" }
+          ]
+        },
+        {
+          "title": "教育小贴士",
+          "url": "/courses/wenhua",
+          "children": [
+            { "title": "英语", "url": "/courses/english" },
+            { "title": "书法", "url": "/courses/shufa" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "联系",
+      "url": "/contact"
+    }
+  ]
+}

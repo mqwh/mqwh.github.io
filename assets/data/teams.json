@@ -1,0 +1,55 @@
+{
+  "teams": [
+    {
+      "name": "team1",
+      "members": [
+        {
+          "name": "teacher1",
+          "imageUrl": "/assets/jango/img/content/avatars/team1.jpg"
+        },
+        {
+          "name": "teacher2",
+          "imageUrl": "/assets/jango/img/content/avatars/team2.jpg"
+        },
+        {
+          "name": "teacher3",
+          "imageUrl": "/assets/jango/img/content/avatars/team3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "team2",
+      "members": [
+        {
+          "name": "teacher4",
+          "imageUrl": "/assets/jango/img/content/avatars/team4.jpg"
+        },
+        {
+          "name": "teacher5",
+          "imageUrl": "/assets/jango/img/content/avatars/team5.jpg"
+        },
+        {
+          "name": "teacher6",
+          "imageUrl": "/assets/jango/img/content/avatars/team6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "team3",
+      "members": [
+        {
+          "name": "teacher7",
+          "imageUrl": "/assets/jango/img/content/avatars/team7.jpg"
+        },
+        {
+          "name": "teacher8",
+          "imageUrl": "/assets/jango/img/content/avatars/team8.jpg"
+        },
+        {
+          "name": "teacher9",
+          "imageUrl": "/assets/jango/img/content/avatars/team9.jpg"
+        }
+      ]
+    }
+  ]
+}

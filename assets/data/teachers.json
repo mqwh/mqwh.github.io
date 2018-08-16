@@ -1,0 +1,58 @@
+{
+  "teachers": [
+    {
+      "name": "teacher1",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team1.jpg"
+    },
+    {
+      "name": "teacher2",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team2.jpg"
+    },
+    {
+      "name": "teacher3",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team3.jpg"
+    },
+    {
+      "name": "teacher4",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team4.jpg"
+    },
+    {
+      "name": "teacher5",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team5.jpg"
+    },
+    {
+      "name": "teacher6",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team6.jpg"
+    },
+    {
+      "name": "teacher7",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team7.jpg"
+    },
+    {
+      "name": "teacher8",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team8.jpg"
+    },
+    {
+      "name": "teacher9",
+      "title": "资深教育专家",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/avatars/team9.jpg"
+    }
+  ]
+}

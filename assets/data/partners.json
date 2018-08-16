@@ -1,0 +1,51 @@
+{
+  "partners": [
+    {
+      "name": "合作机构1",
+      "url": "http://www.microsoft.com",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo1.jpg"
+    },
+    {
+      "name": "合作机构2",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo2.jpg"
+    },
+    {
+      "name": "合作机构3",
+      "url": "http://www.microsoft.com",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo3.jpg"
+    },
+    {
+      "name": "合作机构4",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo4.jpg"
+    },
+    {
+      "name": "合作机构5",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo5.jpg"
+    },
+    {
+      "name": "合作机构6",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo6.jpg"
+    },
+    {
+      "name": "合作机构7",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo7.jpg"
+    },
+    {
+      "name": "合作机构8",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo8.jpg"
+    },
+    {
+      "name": "合作机构9",
+      "description": "Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur.",
+      "imageUrl": "/assets/jango/img/content/client-logos/logo9.jpg"
+    }
+  ]
+}
